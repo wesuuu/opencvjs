@@ -2,9 +2,13 @@
 
 Node bindings for opencv.js (https://docs.opencv.org/4.5.3/d5/d10/tutorial_js_root.html)
 
-Current opencv.js version = 4.5.4
+Current opencv.js version `4.5.4`
 
 Check github repo's README for the latest updates. README available on npm may be out-of-date.
+
+## Installation
+
+`npm install --save opencv-bindings`
 
 ## Development
 
