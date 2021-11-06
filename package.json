@@ -1,6 +1,6 @@
 {
   "name": "opencv-bindings",
-  "version": "4.5.4",
+  "version": "4.5.5",
   "description": "opencv.js node bindings, source directly retrieved from https://docs.opencv.org/ and tested",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "jimp": "^0.16.1",
     "jsdom": "^18.0.1"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/wesuuu/opencvjs.git"
