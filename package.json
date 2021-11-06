@@ -1,7 +1,7 @@
 {
-  "name": "opencvjs",
+  "name": "opencv-bindings",
   "version": "4.5.4",
-  "description": "opencv.js node bindings, directly retrieved from https://docs.opencv.org/",
+  "description": "opencv.js node bindings, source directly retrieved from https://docs.opencv.org/ and tested",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "assert": "^2.0.0",
-    "mocha": "^9.1.3"
-  },
-  "dependencies": {
+    "mocha": "^9.1.3",
     "canvas": "^2.8.0",
     "jimp": "^0.16.1",
     "jsdom": "^18.0.1"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesuuu/opencvjs.git"
   }
 }
