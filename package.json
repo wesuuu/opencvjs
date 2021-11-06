@@ -4,7 +4,7 @@
   "description": "opencv.js node bindings, source directly retrieved from https://docs.opencv.org/ and tested",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx mocha"
   },
   "author": "",
   "license": "ISC",
